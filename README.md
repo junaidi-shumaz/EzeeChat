@@ -23,7 +23,8 @@ Screen three involves handling of chat messages/history per user basis and messa
 
 
 # Next Task:
-Supporting image and video sharing among contacts, media contents will be segregated and pushed onto to a storage area of firebase which will be identified by a unique id’s.
+Supporting image and video sharing among contacts, media content will be segregated and pushed onto to a storage area of firebase which will be identified by a unique id’s.
+
 Progress about the application will be updated as n when the tasks are accomplished.
 
 
