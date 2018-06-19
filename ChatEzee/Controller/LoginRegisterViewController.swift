@@ -13,17 +13,7 @@ class LoginRegisterViewController: UIViewController {
     override var preferredStatusBarStyle: UIStatusBarStyle {
         return .lightContent
     }
-    // Custom view to hold text fields...
-    let loginView: UIView = {
-        // Instantiate UIView and set the background color to white
-        let view = UIView()
-        view.translatesAutoresizingMaskIntoConstraints = false
-        view.backgroundColor = UIColor.white
-        // Following two lines of code is for rounded corner view
-        view.layer.cornerRadius = 5
-        view.layer.masksToBounds = true
-        return view
-    }()
+    
     
     let showActivityIndicator: UIActivityIndicatorView = {
         
