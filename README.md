@@ -18,6 +18,7 @@ Node structure to hold user messages will be in a form of a tree and stored in f
 Screen three involves handling of chat messages/history per user basis and message format as a bubble icon with color codes, this differentiates messages from users.
 
 To get a feel of this application just click on Img1.png, Img2.png and Img3.png...
+------------------------------------------------------------------------------------
 Next Task:
 support image and video sharing among contacts, media contents will be segregated and pushed onto to a storage area of firebase which will be identified by a unique id’s.
 Progress about the application will be updated as n when the tasks are accomplished.
