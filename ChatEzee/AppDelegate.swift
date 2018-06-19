@@ -21,11 +21,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Plotting custom window to avoid storyboard usage
         Database.database().isPersistenceEnabled = true
         
-        window = UIWindow(frame: UIScreen.main.bounds)
-        window?.makeKeyAndVisible()
-        //window!.rootViewController = MessageViewController()
-        // Adding navigation bar to the top of window
-        window?.rootViewController = UINavigationController(rootViewController: MessageViewController())
+        
         return true
     }
 
