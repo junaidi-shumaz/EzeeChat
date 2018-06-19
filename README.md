@@ -5,7 +5,10 @@ As of now application support realtime text chatting where a user can register, 
 
 
 # Technology Stack: 
-Firebase, Swift Programming 4 and Xcode 9.X
+Firebase
+Swift Programming 4
+Xcode 9.X
+IOS 9.X
 
 # Usage Instruction & Features
 To get start with this app, user has to register and signin to the system.  This involves leveraging firebase authentication mechanism to allow user to login to the application. Login screen contains toggle button to switch over login screen and registration screen.
