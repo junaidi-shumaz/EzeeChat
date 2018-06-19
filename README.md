@@ -4,9 +4,10 @@ EzeeChat is an application that enables user to perform text chatting and media 
 As of now application support realtime text chatting where a user can register, login and initiate live chatting with the users available over firebase database.
 
 
-Technology Stack: Firebase, Swift Programming 4 and Xcode 9.X
+##Technology Stack: 
+Firebase, Swift Programming 4 and Xcode 9.X
 
-
+##Usage Instructions & Features
 To get start with this app, user has to register and signin to the system.  This involves leveraging firebase authentication mechanism to allow user to login to the application. Login screen contains toggle button to switch over login screen and registration screen.
 Main controller screen will fetch users from firebase database involved in chat. It also has a logout feature which directly takes user back to the login screen.
 
@@ -17,9 +18,11 @@ Node structure to hold user messages will be in a form of a tree and stored in f
 
 Screen three involves handling of chat messages/history per user basis and message format as a bubble icon with color codes, this differentiates messages from users.
 
-To get a feel of this application just click on Img1.png, Img2.png and Img3.png...
-------------------------------------------------------------------------------------
-Next Task:
+##Feel of an application 
+![Screenshot listing user inbox](Img1.png)
+
+
+##Next Task:
 support image and video sharing among contacts, media contents will be segregated and pushed onto to a storage area of firebase which will be identified by a unique id’s.
 Progress about the application will be updated as n when the tasks are accomplished.
 
