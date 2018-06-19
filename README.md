@@ -22,7 +22,7 @@ Node structure to hold user messages will be in a form of a tree and stored in f
 Screen three involves handling of chat messages/history per user basis and message format as a bubble icon with color codes, this differentiates messages from users.
 
 # Feel of an application 
-![Screenshot listing user inbox](Img1.png) ![Screenshot listing user inbox](Img1.png) ![Screenshot listing available users](Img2.png) ![Chatroom](Img3.png)
+![Screenshot listing user inbox](Img4.png) ![Screenshot listing user inbox](Img1.png) ![Screenshot listing available users](Img2.png) ![Chatroom](Img3.png)
 
 
 # Next Task:
